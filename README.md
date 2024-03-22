@@ -21,13 +21,13 @@ HTML       CSS       Bootstrap
 Javascript       J2EE
 
 
-JPA       Hibernate      
+JPA       Hibernate         Rest Api     
 
 
 Spring       SpringMVC       Springboot
 
 
-React       Microservices    Rest Api
+React        Microservices      
 
 <hr>
 
