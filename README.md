@@ -10,9 +10,9 @@
 
 🛠 Skills
 
-Java       Advance Java
+Java       Core Java
 
-JSP        MySQL
+JDBC        MySQL
 
 
 HTML       CSS       Bootstrap
@@ -21,13 +21,13 @@ HTML       CSS       Bootstrap
 Javascript       J2EE
 
 
-JPA       Hibernate
+JPA       Hibernate      
 
 
 Spring       SpringMVC       Springboot
 
 
-Thymeleaf     React
+React       Microservices    Rest Api
 
 <hr>
 
